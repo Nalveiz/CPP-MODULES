@@ -1,0 +1,27 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+cpp00
+cpp01
+cpp02
+cpp03
+cpp04
+cpp05
+cpp06
+cpp07
+cpp08
+cpp09
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
